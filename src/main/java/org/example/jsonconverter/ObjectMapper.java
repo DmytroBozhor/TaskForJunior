@@ -1,4 +1,4 @@
-package org.example.Task1;
+package org.example.jsonconverter;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

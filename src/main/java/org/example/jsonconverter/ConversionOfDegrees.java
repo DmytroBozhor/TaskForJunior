@@ -1,9 +1,9 @@
-package org.example.Task1;
+package org.example.jsonconverter;
 
-import org.example.Task1.degree.Celsius;
-import org.example.Task1.degree.Degree;
-import org.example.Task1.degree.Fahrenheit;
-import org.example.Task1.degree.Kelvin;
+import org.example.jsonconverter.degree.Celsius;
+import org.example.jsonconverter.degree.Degree;
+import org.example.jsonconverter.degree.Fahrenheit;
+import org.example.jsonconverter.degree.Kelvin;
 
 public class ConversionOfDegrees {
 

@@ -1,4 +1,4 @@
-package org.example.Task1.degree;
+package org.example.jsonconverter.degree;
 
 public class Celsius implements Degree{
     private int F;

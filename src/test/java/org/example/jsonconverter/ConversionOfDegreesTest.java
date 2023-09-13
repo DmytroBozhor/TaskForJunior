@@ -1,4 +1,4 @@
-package org.example.Task1;
+package org.example.jsonconverter;
 
 import org.junit.jupiter.api.Test;
 

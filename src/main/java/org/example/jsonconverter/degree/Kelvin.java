@@ -1,4 +1,4 @@
-package org.example.Task1.degree;
+package org.example.jsonconverter.degree;
 
 public class Kelvin implements Degree{
     private int C;
